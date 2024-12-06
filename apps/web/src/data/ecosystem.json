@@ -2,7 +2,7 @@
   {
     "name": "DIMO",
     "tags": ["infra"],
-    "description": "DIMO Mobile unlocks your car’s data for valuable vehicle health insights, maintenance alerts, trip history, and real-time location tracking—right at your fingertips. With personalized service offers and weekly token rewards, DIMO Mobile is your all-in-one app for maximizing your car’s potential and helping you drive smarter.",
+    "description": "DIMO is connected car platform for developers, enabling user-authorized access to vehicle data to create new types of games, social apps, leaderboards, dashboards, and more. For vehicle owners, the DIMO Mobile app unlocks your car’s data providing valuable vehicle health insights, personalized service offers ,and weekly rewards. DIMO Mobile is your all-in-one app for maximizing your car’s potential and helping you drive smarter.",
     "url": "https://dimo.co",
     "imageUrl": "/images/partners/dimo.png"
   },
